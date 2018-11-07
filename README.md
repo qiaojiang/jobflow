@@ -11,17 +11,19 @@ JOBFLOW 是用Java语言实现的一套高可用的分布式任务调度系统�
 5. 任务监控。
 6. 一键修复数据。
 
-#部署需求：
+# 部署需求：
 软件需求：jdk1.8+，tomcat，mysql，supervisor, zookeeper
   （1）用maven编译生成master.jar，worker.jar及后台程序jobflow.war
   （2）jobflow.war部署至tomcat。
   （3）用supervisor管理master，worker守护进程。
   （4）编译生成的master_v2是高可用版本，需要zookeeper集群，可以根据需要选择。
 
-#用户界面
+# 用户界面
 
 <img src="doc/img/1.png"/>
 
 <img src="doc/img/2.png"/>
 
 <img src="doc/img/3.png"/>
+
+欢迎感兴趣的朋友提宝贵意见或贡献代码
