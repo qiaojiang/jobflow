@@ -19,4 +19,9 @@ JOBFLOW 是用Java语言实现的一套高可用的分布式任务调度系统�
   （4）编译生成的master_v2是高可用版本，需要zookeeper集群，可以根据需要选择。
 
 #用户界面
+
 <img src="doc/img/1.png"/>
+
+<img src="doc/img/2.png"/>
+
+<img src="doc/img/3.png"/>
